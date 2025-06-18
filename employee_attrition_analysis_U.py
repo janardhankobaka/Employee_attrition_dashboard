@@ -355,7 +355,7 @@ with tab2:
 try:
     st.markdown("""
         <hr style='border: 1px solid #3b82f6;'>
-        <p style='text-align: center; color: #9ca3af;'>Made with ❤️ by Bava</p>
+        <p style='text-align: center; color: #9ca3af;'>Made with ❤️/p>
     """, unsafe_allow_html=True)
     logging.debug("Footer rendered successfully.")
 except Exception as e:
